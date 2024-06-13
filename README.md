@@ -1,6 +1,6 @@
 # PandaCute-OS-Kernel
 
-![Logo](images/logo.png)
+![Logo](https://github.com/Tmd-Group-ID/PandaCute-OS-Kernel/blob/main/Logo_PandaCute/PandaCute%20OS_Logo.png?raw=true)
 
 PandaCute OS Beta Version 1
 
