@@ -1,0 +1,12 @@
+C:\Folder Download Sementara\Data Perusahaan Gue\Project Teknologi Perusahaan\Panda-OS\Panda-Cute\PandaCute-OS\PandaCute-OS\bin\Debug\net6.0\PandaCute-OS.deps.json
+C:\Folder Download Sementara\Data Perusahaan Gue\Project Teknologi Perusahaan\Panda-OS\Panda-Cute\PandaCute-OS\PandaCute-OS\bin\Debug\net6.0\PandaCute-OS.dll
+C:\Folder Download Sementara\Data Perusahaan Gue\Project Teknologi Perusahaan\Panda-OS\Panda-Cute\PandaCute-OS\PandaCute-OS\bin\Debug\net6.0\PandaCute-OS.pdb
+C:\Folder Download Sementara\Data Perusahaan Gue\Project Teknologi Perusahaan\Panda-OS\Panda-Cute\PandaCute-OS\PandaCute-OS\obj\Debug\net6.0\PandaCute-OS.csproj.AssemblyReference.cache
+C:\Folder Download Sementara\Data Perusahaan Gue\Project Teknologi Perusahaan\Panda-OS\Panda-Cute\PandaCute-OS\PandaCute-OS\obj\Debug\net6.0\PandaCute-OS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Folder Download Sementara\Data Perusahaan Gue\Project Teknologi Perusahaan\Panda-OS\Panda-Cute\PandaCute-OS\PandaCute-OS\obj\Debug\net6.0\PandaCute-OS.AssemblyInfoInputs.cache
+C:\Folder Download Sementara\Data Perusahaan Gue\Project Teknologi Perusahaan\Panda-OS\Panda-Cute\PandaCute-OS\PandaCute-OS\obj\Debug\net6.0\PandaCute-OS.AssemblyInfo.cs
+C:\Folder Download Sementara\Data Perusahaan Gue\Project Teknologi Perusahaan\Panda-OS\Panda-Cute\PandaCute-OS\PandaCute-OS\obj\Debug\net6.0\PandaCute-OS.csproj.CoreCompileInputs.cache
+C:\Folder Download Sementara\Data Perusahaan Gue\Project Teknologi Perusahaan\Panda-OS\Panda-Cute\PandaCute-OS\PandaCute-OS\obj\Debug\net6.0\PandaCute-OS.dll
+C:\Folder Download Sementara\Data Perusahaan Gue\Project Teknologi Perusahaan\Panda-OS\Panda-Cute\PandaCute-OS\PandaCute-OS\obj\Debug\net6.0\refint\PandaCute-OS.dll
+C:\Folder Download Sementara\Data Perusahaan Gue\Project Teknologi Perusahaan\Panda-OS\Panda-Cute\PandaCute-OS\PandaCute-OS\obj\Debug\net6.0\PandaCute-OS.pdb
+C:\Folder Download Sementara\Data Perusahaan Gue\Project Teknologi Perusahaan\Panda-OS\Panda-Cute\PandaCute-OS\PandaCute-OS\obj\Debug\net6.0\ref\PandaCute-OS.dll

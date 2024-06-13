@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Folder Download Sementara\\Data Perusahaan Gue\\Project Teknologi Perusahaan\\Panda-OS\\Panda-Cute\\PandaCute-OS\\PandaCute-OS\\PandaCute-OS.csproj": {}
+  },
+  "projects": {
+    "C:\\Folder Download Sementara\\Data Perusahaan Gue\\Project Teknologi Perusahaan\\Panda-OS\\Panda-Cute\\PandaCute-OS\\PandaCute-OS\\PandaCute-OS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Folder Download Sementara\\Data Perusahaan Gue\\Project Teknologi Perusahaan\\Panda-OS\\Panda-Cute\\PandaCute-OS\\PandaCute-OS\\PandaCute-OS.csproj",
+        "projectName": "PandaCute-OS",
+        "projectPath": "C:\\Folder Download Sementara\\Data Perusahaan Gue\\Project Teknologi Perusahaan\\Panda-OS\\Panda-Cute\\PandaCute-OS\\PandaCute-OS\\PandaCute-OS.csproj",
+        "packagesPath": "C:\\Users\\anand\\.nuget\\packages\\",
+        "outputPath": "C:\\Folder Download Sementara\\Data Perusahaan Gue\\Project Teknologi Perusahaan\\Panda-OS\\Panda-Cute\\PandaCute-OS\\PandaCute-OS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\anand\\AppData\\Roaming\\Cosmos User Kit\\packages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Cosmos.Build": {
+              "target": "Package",
+              "version": "[0.0.0-*, )",
+              "noWarn": [
+                "NU1604"
+              ]
+            },
+            "Cosmos.Debug.Kernel": {
+              "target": "Package",
+              "version": "[0.0.0-*, )",
+              "noWarn": [
+                "NU1604"
+              ]
+            },
+            "Cosmos.System2": {
+              "target": "Package",
+              "version": "[0.0.0-*, )",
+              "noWarn": [
+                "NU1604"
+              ]
+            },
+            "IronPython": {
+              "target": "Package",
+              "version": "[3.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
