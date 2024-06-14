@@ -26,4 +26,4 @@ PandaCute OS Beta Version 1
 
 ## Our Contacts
 1. [Send Email](mailto:tmdgroupid@gmail.com)
-2. [Visit our Website's Contacts Page](https://tmdgroupid.tumbuhku.my.id/contact_us)
+2. [Visit our Website's Contacts Page](https://tmdgroupid.biz.id/contact_us)
